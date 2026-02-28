@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "exportedAt": "2026-02-28T10:03:47.596Z",
+  "activities": [
+    {
+      "id": "ec653c48-5400-4f1e-9b89-f41900c119ee",
+      "name": "New Request",
+      "url": "bgbgbg",
+      "request": {
+        "id": "ec653c48-5400-4f1e-9b89-f41900c119ee",
+        "method": "GET",
+        "url": "bgbgbg",
+        "headers": {},
+        "body": "",
+        "timestamp": "2026-02-28T07:54:48.151Z",
+        "name": "New Request"
+      },
+      "response": null,
+      "parentId": null
+    },
+    {
+      "id": "b3a65fd7-93d4-49c2-8915-4c968a683eec",
+      "name": "New Request",
+      "url": "ewefwefe",
+      "request": {
+        "id": "b3a65fd7-93d4-49c2-8915-4c968a683eec",
+        "method": "GET",
+        "url": "ewefwefe",
+        "headers": {},
+        "body": "",
+        "timestamp": "2026-02-28T10:03:26.302Z",
+        "name": "New Request"
+      },
+      "response": null,
+      "parentId": null
+    },
+    {
+      "id": "61ba7865-1755-4d1e-83ba-a49313ab1a81",
+      "name": "New Request",
+      "url": "efwfewf",
+      "request": {
+        "id": "61ba7865-1755-4d1e-83ba-a49313ab1a81",
+        "method": "GET",
+        "url": "efwfewf",
+        "headers": {},
+        "body": "",
+        "timestamp": "2026-02-28T10:03:34.986Z",
+        "name": "New Request"
+      },
+      "response": null,
+      "parentId": "8fxkd0f0i"
+    }
+  ],
+  "folders": [
+    {
+      "id": "8fxkd0f0i",
+      "name": "New Folder",
+      "parentId": null
+    }
+  ]
+}
