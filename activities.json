@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "exportedAt": "2026-02-28T09:37:04.623Z",
+  "activities": [
+    {
+      "id": "ec653c48-5400-4f1e-9b89-f41900c119ee",
+      "name": "New Request",
+      "url": "",
+      "request": {
+        "id": "ec653c48-5400-4f1e-9b89-f41900c119ee",
+        "method": "GET",
+        "url": "",
+        "headers": {},
+        "body": "",
+        "timestamp": "2026-02-28T07:54:48.151Z",
+        "name": "New Request"
+      },
+      "response": null,
+      "parentId": null
+    }
+  ],
+  "folders": []
+}
