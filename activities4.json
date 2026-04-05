@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "exportedAt": "2026-04-05T17:33:51.605Z",
+  "activities": [
+    {
+      "id": "47e6a72c-45c2-47c2-949f-db23c9526530",
+      "name": "?kjbj=",
+      "url": "",
+      "request": {
+        "id": "47e6a72c-45c2-47c2-949f-db23c9526530",
+        "method": "GET",
+        "url": "",
+        "headers": {},
+        "body": "",
+        "timestamp": "2026-04-04T13:50:29.205Z",
+        "name": "?kjbj=",
+        "queryParams": {
+          "kjbj": ""
+        }
+      },
+      "response": {
+        "id": "jz9hd2yzh",
+        "requestId": "47e6a72c-45c2-47c2-949f-db23c9526530",
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+          "access-control-allow-origin": "*",
+          "cache-control": "no-cache",
+          "content-length": "637",
+          "content-type": "text/html",
+          "date": "Sat, 04 Apr 2026 18:54:05 GMT",
+          "etag": "W/\"27d-8XfLf+5GOql9fNOiRKQt0tDVOg0\""
+        },
+        "body": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <script type=\"module\">import { injectIntoGlobalHook } from \"/@react-refresh\";\ninjectIntoGlobalHook(window);\nwindow.$RefreshReg$ = () => {};\nwindow.$RefreshSig$ = () => (type) => type;</script>\n\n    <script type=\"module\" src=\"/@vite/client\"></script>\n\n    <meta charset=\"UTF-8\" />\n    <link rel=\"icon\" type=\"image/svg+xml\" href=\"/vite.svg\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>Vite + React + TS</title>\n  </head>\n  <body>\n    <div id=\"root\"></div>\n    <script type=\"module\" src=\"/src/main.tsx?t=1775328807962\"></script>\n  </body>\n</html>\n",
+        "timestamp": "2026-04-04T18:54:05.264Z",
+        "duration": 44,
+        "size": 637,
+        "contentType": "text/html",
+        "isSuccess": true
+      }
+    }
+  ],
+  "folders": []
+}
