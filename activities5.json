@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "exportedAt": "2026-05-04T17:22:55.693Z",
+  "activities": [
+    {
+      "id": "09861b62-0b1d-4067-bb74-6d31c03db48f",
+      "name": "?kkm=",
+      "url": "https://restcountries.com/v3.1/all?fields=name",
+      "request": {
+        "id": "09861b62-0b1d-4067-bb74-6d31c03db48f",
+        "method": "GET",
+        "url": "https://restcountries.com/v3.1/all?fields=name",
+        "headers": {
+          "new-header": "new-value",
+          "another-header": "another-value"
+        },
+        "body": "",
+        "timestamp": "2026-04-04T13:51:25.383Z",
+        "name": "?kkm=",
+        "queryParams": {}
+      },
+      "response": {
+        "id": "iz4st6o29",
+        "requestId": "09861b62-0b1d-4067-bb74-6d31c03db48f",
+        "status": 400,
+        "statusText": "",
+        "headers": {
+          "content-length": "96",
+          "content-type": "application/json"
+        },
+        "body": "{\"message\":\"'fields' query not specified or you're requesting more than 10 fields\",\"status\":400}",
+        "timestamp": "2026-05-04T14:36:50.158Z",
+        "duration": 1150,
+        "size": 96,
+        "contentType": "application/json",
+        "isSuccess": false
+      },
+      "parentId": "u6hhioq4j"
+    }
+  ],
+  "folders": []
+}
